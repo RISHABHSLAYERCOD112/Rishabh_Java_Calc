@@ -41,7 +41,7 @@ public class Cal{
                 e.Mul();
                 break;
             case '/':
-             
+                 e.Div();
                 break;
             default:
                 System.out.println("Invalid operator.");
